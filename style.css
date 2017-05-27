@@ -1,0 +1,175 @@
+<style>
+
+img.fotimg{
+		margin:50px;		
+	}
+
+html, body, .carousel,  .carousel-inner {
+   width:100%;
+   max-width: 100%;
+   overflow-x:hidden;
+}
+
+h1.sec1t	{
+
+			font-size:100px;
+			color:white;
+	
+		}
+
+p.pbtn	{
+
+		
+		background-color:transparent;
+		color:white;
+		padding:20px;
+		font-size:30px;
+
+	}
+button.but {
+			background-color:transparent;
+			border-radius:50px;
+			border:0px solid;
+			border-top:1px solid;
+			border-bottom:1px solid;
+	
+		}
+
+p.navp,ul.navt {
+		font-size:15px;
+		padding:5px;	
+		
+	}
+p.pbtn:hover,button.but:hover,button.but:active
+		{
+			background-color:#17202a;
+		}
+
+div.box {
+		border-style:inset;
+		border-width:medium;
+		border-radius:5px;
+		margin:40px;
+		font-family:courier;
+		padding:20px;
+		border-left-color:#ccd1d1;
+		border-top-color:#ccd1d1;
+		border-right-color:#e5e8e8;
+		border-bottom-color:#e5e8e8;
+
+	}
+button.lbut{
+		background-color:transparent;
+		border:0px solid;
+		border-bottom:1px solid;
+		color:black;
+	}
+img.wimg{
+		width:100%;
+		height:1000px;
+		margin-left:0px;
+		padding:0;
+
+		
+	}
+
+li.limit{
+		width:49%;	
+		margin-top:120px;
+		
+
+	}
+p.head {
+		font-size:50px;
+		margin-left:110px;
+		margin-bottom:45px;
+
+	}
+p.shead{	margin-top:20px;
+		font-size:35px;
+		margin-left:110px;	
+	}
+p.ch{
+		font-size:20px;
+		margin-left:110px;
+	}
+img.sec3img{	
+		margin-left:10px;
+		width:100%;
+		height:800px;
+		}
+div.caption{
+			font-size:20px;
+		
+	}
+input.limit,label.limt {
+			width:50%;
+			margin-top:10px;
+			border:0px solid;
+			background-color:transparent;
+			border-bottom:1px solid;	
+			color:black;
+			
+			}
+ul.limit{
+		width:100%;
+
+	}
+p.logins {
+		font-size:20px;
+		margin-left:40%;
+		color:black;
+	}
+p.loginsi{
+		font-size:20px;
+		
+	}
+hr.vertical{
+		width:1px;
+		height:100%;
+		margin:10px;
+	   }
+div.sec32{
+
+		max-width:50%;
+		margin-top:30px;
+	}
+
+div.sec1btn {
+		position:absolute;
+		z-index:1;
+		text-align:center;	
+
+	}
+p.qs	{
+		font-size:200%;	
+
+	}
+
+img.ci {
+		width:100%;
+		height:1000px;
+		
+	}
+p.s4p {
+
+		font-size:100px;
+		text-align:center;
+		margin:90px;
+		
+
+	}
+div.rh{
+	height:50px;
+	background-color:black;
+		
+
+	}
+
+div.item{
+
+	width:100%;
+	}
+</style>
+
+
