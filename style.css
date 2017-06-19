@@ -4,17 +4,16 @@ img.fotimg{
 		margin:50px;		
 	}
 
-html, body, .carousel,  .carousel-inner {
+html, body, {
    width:100%;
    max-width: 100%;
    overflow-x:hidden;
 }
 
 h1.sec1t	{
-
-			font-size:100px;
+			text-align: center;
+			font-size:4rem;
 			color:white;
-	
 		}
 
 p.pbtn	{
@@ -22,8 +21,8 @@ p.pbtn	{
 		
 		background-color:transparent;
 		color:white;
-		padding:20px;
-		font-size:30px;
+		padding:0.25em;
+		font-size:1em;
 
 	}
 button.but {
@@ -36,8 +35,9 @@ button.but {
 		}
 
 p.navp,ul.navt {
-		font-size:15px;
-		padding:5px;	
+		font-size:1em;
+		padding:0.5em;
+		padding-bottom: 0em;	
 		
 	}
 p.pbtn:hover,button.but:hover,button.but:active
@@ -49,9 +49,9 @@ div.box {
 		border-style:inset;
 		border-width:medium;
 		border-radius:5px;
-		margin:40px;
+		margin:2.5em;
 		font-family:courier;
-		padding:20px;
+		padding:1.5em;
 		border-left-color:#ccd1d1;
 		border-top-color:#ccd1d1;
 		border-right-color:#e5e8e8;
@@ -66,7 +66,8 @@ button.lbut{
 	}
 img.wimg{
 		width:100%;
-		height:1000px;
+		height:90rem;
+		background-size:cover; 
 		margin-left:0px;
 		padding:0;
 
@@ -74,37 +75,38 @@ img.wimg{
 	}
 
 li.limit{
-		width:49%;	
-		margin-top:120px;
-		
+		width:50rem;	
+		margin-top:6em;
+		margin-left:20rem;
 
 	}
 p.head {
-		font-size:50px;
-		margin-left:110px;
-		margin-bottom:45px;
+		font-size:3em;
+		margin-left:1.5em;
+		margin-bottom:1em;
 
 	}
-p.shead{	margin-top:20px;
-		font-size:35px;
-		margin-left:110px;	
+p.shead{	
+		margin-top:1em;
+		font-size:2em;
+		margin-left:2.5em;	
 	}
 p.ch{
-		font-size:20px;
-		margin-left:110px;
+		font-size:1.5em;
+		margin-left:3.2em;
 	}
 img.sec3img{	
-		margin-left:10px;
+		margin-left:0.5em;
 		width:100%;
-		height:800px;
+		height:60em; 	
 		}
 div.caption{
-			font-size:20px;
+			font-size:1.5em;
 		
 	}
 input.limit,label.limt {
 			width:50%;
-			margin-top:10px;
+			margin-top:0.5em;
 			border:0px solid;
 			background-color:transparent;
 			border-bottom:1px solid;	
@@ -112,22 +114,22 @@ input.limit,label.limt {
 			
 			}
 ul.limit{
-		width:100%;
-
+		width:140rem;
+		max-width: 100%;
 	}
 p.logins {
-		font-size:20px;
+		font-size:2em;
 		margin-left:40%;
 		color:black;
 	}
 p.loginsi{
-		font-size:20px;
+		font-size:2rem;
 		
 	}
 hr.vertical{
 		width:1px;
 		height:100%;
-		margin:10px;
+		margin:0.5em;
 	   }
 div.sec32{
 
@@ -148,14 +150,19 @@ p.qs	{
 
 img.ci {
 		width:100%;
-		height:1000px;
-		
+		height:80rem;
+		background-position:center;
+		text-align: center;
+		justify-content: center;
+		align-items: center;
+		background-size: cover;
+		display: flex; 
 	}
 p.s4p {
 
-		font-size:100px;
+		font-size:5rem;
 		text-align:center;
-		margin:90px;
+		margin:5rem;
 		
 
 	}
